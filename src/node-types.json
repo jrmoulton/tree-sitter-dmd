@@ -91,6 +91,10 @@
           "named": true
         },
         {
+          "type": "if_expression",
+          "named": true
+        },
+        {
           "type": "integer",
           "named": true
         },
@@ -135,6 +139,10 @@
         },
         {
           "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "if_expression",
           "named": true
         },
         {
@@ -185,6 +193,10 @@
           "named": true
         },
         {
+          "type": "if_expression",
+          "named": true
+        },
+        {
           "type": "integer",
           "named": true
         },
@@ -224,6 +236,11 @@
     }
   },
   {
+    "type": "comment",
+    "named": true,
+    "fields": {}
+  },
+  {
     "type": "condition",
     "named": true,
     "fields": {},
@@ -253,6 +270,10 @@
         },
         {
           "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "if_expression",
           "named": true
         },
         {
@@ -463,6 +484,10 @@
           "named": true
         },
         {
+          "type": "if_expression",
+          "named": true
+        },
+        {
           "type": "integer",
           "named": true
         },
@@ -525,6 +550,10 @@
           "named": true
         },
         {
+          "type": "if_expression",
+          "named": true
+        },
+        {
           "type": "integer",
           "named": true
         },
@@ -561,6 +590,10 @@
         },
         {
           "type": "call",
+          "named": true
+        },
+        {
+          "type": "comment",
           "named": true
         },
         {
@@ -636,6 +669,10 @@
           "named": true
         },
         {
+          "type": "if_expression",
+          "named": true
+        },
+        {
           "type": "integer",
           "named": true
         },
@@ -684,6 +721,10 @@
   },
   {
     "type": "/",
+    "named": false
+  },
+  {
+    "type": "//",
     "named": false
   },
   {

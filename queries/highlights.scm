@@ -8,6 +8,8 @@
   (identifier) @function)
 (parameter_list
   (identifier) @variable)
+(comment) @comment
+(string) @string
 
 [
 "if"
@@ -21,6 +23,7 @@
 
 [
 "let"
+"return"
 ] @keyword
 
 [
